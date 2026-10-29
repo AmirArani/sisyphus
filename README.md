@@ -6,7 +6,7 @@ A small, hand-picked list of working connections for the family. Every day one o
 
 ## How to use it
 
-1. Copy the subscription link: `<SUBSCRIPTION_URL>`
+1. Copy the subscription link: `https://raw.githubusercontent.com/AmirArani/sisyphus/refs/heads/main/sisyphus.txt`
 2. Open your app and add a new subscription with that link.
 3. Update the subscription, then pick a connection from the list.
 
