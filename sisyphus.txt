@@ -1,3 +1,7 @@
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1330?encryption=none&security=none&type=tcp#%F0%9F%94%84%20Updated%2014050808%2013%3A30
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:830?encryption=none&security=none&type=tcp#%F0%9F%93%A6%20830%20Configs
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:3?encryption=none&security=none&type=tcp#%E2%9B%B0%EF%B8%8F%20Try%20%233
+_________________
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=TELEGRAM%40MIGAVPNPRO&serviceName=hub.v1.SyncService&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%A9MD-5
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#Channel%20%3A%20%40Daily_Configs
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?encryption=none&security=tls&sni=us007.zestapp778.com&fp=chrome&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-524
